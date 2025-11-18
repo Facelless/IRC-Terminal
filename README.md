@@ -13,7 +13,6 @@ A lightweight, terminal-based IRC-style chat application written in Go, followin
 - Nickname management (`/nick NEWNAME`)
 - List connected users (`/who`)
 - Quit command (`/quit`)
-- ANSI-colored messages for better readability
 - Built with **Clean Architecture** in Go
 - Easy to extend (channels, private messages, TLS, etc.)
 
