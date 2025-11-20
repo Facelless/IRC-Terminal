@@ -2,7 +2,7 @@
 
 # TermiChat
 
-A lightweight, terminal-based IRC-style chat application written in Go, following Clean Architecture principles. Supports multiple clients, nick management, user lists, and ANSI-colored messages. Designed for simplicity, extensibility, and easy terminal use.
+A lightweight, terminal-based IRC-style chat application written in Go, following Clean Architecture principles. Supports multiple clients, nick management, user lists. Designed for simplicity, extensibility, and easy terminal use.
 
 ---
 
